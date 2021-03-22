@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/deums/c++/build",
+  "command": "/bin/c++      -o CMakeFiles/exe.dir/main.cpp.o -c /home/deums/c++/main.cpp",
+  "file": "/home/deums/c++/main.cpp"
+}
+]

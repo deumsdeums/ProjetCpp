@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/deums/c++/File.h
+Liste.h
+/home/deums/c++/Liste.h
+
+/home/deums/c++/Liste.h
+NoeudDeListe.h
+/home/deums/c++/NoeudDeListe.h
+NoeudDeListe.cpp
+/home/deums/c++/NoeudDeListe.cpp
+
+/home/deums/c++/NoeudDeListe.cpp
+iostream
+-
+
+/home/deums/c++/NoeudDeListe.h
+
+/home/deums/c++/Pile.h
+Liste.h
+/home/deums/c++/Liste.h
+
+/home/deums/c++/main.cpp
+iostream
+-
+string
+-
+Liste.h
+/home/deums/c++/Liste.h
+File.h
+/home/deums/c++/File.h
+Pile.h
+/home/deums/c++/Pile.h
+
