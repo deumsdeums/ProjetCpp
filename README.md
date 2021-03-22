@@ -7,6 +7,8 @@
 
 ## Non fait :
 - Suppression d'une valeur dans la liste et arbre
+- 
+#Binome
 
-- ROSSI Kévin
-- VENISCH Vincent
+* ROSSI Kévin
+* VENISCH Vincent
